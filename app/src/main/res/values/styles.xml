@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BrightcoveControlBar.Custom">
+        <item name="brightcove_seekbar">false</item>
+        <item name="brightcove_vr_mode">false</item>
+    </style>
+
+    <style name="BrightcoveControlBar.TV.Custom">
+        <item name="brightcove_vr_mode">false</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+</resources>
